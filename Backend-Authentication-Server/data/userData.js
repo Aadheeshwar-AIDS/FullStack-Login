@@ -1,10 +1,10 @@
 const userData = [
     {
-        "firstName": "Siddarthan",
-        "lastName": "Natarajan",
+        "firstName": "Aadheeshwar",
+        "lastName": "A",
         "phoneNumber": "1234567890",
-        "email": "siddarthan@gmail.com",
-        "password": "sidd123"
+        "email": "aadhee123@gmail.com",
+        "password": "aadhee123"
     },
     {
         "firstName": "John",
